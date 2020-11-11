@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# rails-react-authentication
+>>>>>>> a4ec5bca447f6758fd9fb117ce9d8e304604922f
