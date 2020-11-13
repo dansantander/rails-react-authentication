@@ -29,6 +29,7 @@ gem 'bcrypt', '~> 3.1.7'
 
 gem 'rack-cors', :require => 'rack/cors'
 
+gem "table_print"
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
